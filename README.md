@@ -1,7 +1,6 @@
 <p align="center">
   <img src="purple-banner.png" alt="Purple Team Cybersecurity Banner" width="100%" />
 </p>
-
 # 🟪 Purple Team Cybersecurity Journey
 
 Welcome to my learning journal as I transition from healthcare into cybersecurity, with a focus on **Purple Team** roles, blending Red Team (offensive) and Blue Team (defensive) strategies to protect digital environments.
