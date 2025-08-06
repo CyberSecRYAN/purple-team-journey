@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="A_digital_graphic_banner_for_Purple_Team.png" alt="Purple Team Banner" width="100%" />
+  <img src="purple-banner.png" alt="Purple Team Cybersecurity Banner" width="100%" />
 </p>
 
 # 🟪 Purple Team Cybersecurity Journey
