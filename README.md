@@ -1,3 +1,4 @@
+![Purple Team Cybersecurity Banner](purple-team-cybersecurity-banner.png)
 # 🟪 Purple Team Cybersecurity Journey
 
 Welcome to my cybersecurity portfolio.
