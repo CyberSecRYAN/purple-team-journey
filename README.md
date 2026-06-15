@@ -1,8 +1,8 @@
 # 🟪 Purple Team Cybersecurity Journey
 
-Welcome to my cybersecurity learning journal.
+Welcome to my cybersecurity portfolio.
 
-I am building hands-on skills for SOC analysis, IT support, threat detection, log analysis, and purple team fundamentals. This repository documents my growth through labs, notes, tools, and practical security projects as I continue developing toward SOC Analyst and future Purple Team roles.
+I am building hands-on skills in SOC analysis, IT support, threat detection, log analysis, and purple team fundamentals. This repository documents my growth through labs, notes, tools, and practical security projects as I continue developing toward SOC Analyst and future Purple Team roles.
 
 ## Current Focus, June 2026
 
@@ -49,9 +49,9 @@ Writing clear investigation notes, identifying indicators, and practicing struct
 
 ### June 2026
 
-* Refreshed GitHub structure for recruiter visibility
-* Rebuilt cybersecurity project portfolio around SOC and blue-team skills
+* Rebuilt this repository into a practical cybersecurity portfolio
 * Practicing Python, Linux, networking, and log analysis
+* Documenting SOC analyst concepts, lab work, and detection practice
 * Preparing projects that demonstrate real analyst thinking
 
 ### Previous Study Areas
@@ -66,6 +66,6 @@ Writing clear investigation notes, identifying indicators, and practicing struct
 
 My goal is to move into IT Support, Technical Support, NOC, or SOC Tier 1 work, then continue growing into SOC Analyst, Security Analyst, and Purple Team roles.
 
-This journey blends technical skill, curiosity, discipline, and purpose.
+This portfolio reflects my commitment to practical cybersecurity skills, clear documentation, and continuous improvement.
 
 Let’s go. 🛡️
